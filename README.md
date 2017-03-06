@@ -1,1 +1,28 @@
-# Android-UtilsLibrary
+# UtilsLibrary
+
+[![Download](https://api.bintray.com/packages/smartbetter/maven/utilslibrary/images/download.svg) ](https://bintray.com/smartbetter/maven/utilslibrary/_latestVersion)
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+
+Library, a kind of auxiliary tool to Android development, applies to rapid development. It means to reduce duplication of work and increase of efficiency.
+
+Android开发辅助工具类Library，用于快速开发，以便减少做重复的工作，提高开发效率。
+
+# Gradle
+
+	compile 'net.smartbetter:utilslibrary:0.0.2'
+
+# License
+
+    Copyright 2016 smartbetter
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+    
+    http://www.apache.org/licenses/LICENSE-2.0
+    
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
